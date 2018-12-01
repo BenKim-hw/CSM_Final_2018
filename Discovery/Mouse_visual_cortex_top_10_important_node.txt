@@ -1,0 +1,59 @@
+#1
+n149	0.008150280986639306
+<node id="n149">
+      <data key="v_type1">Cell body in EM volume</data>
+      <data key="v_type2">Postsynaptic inhibitory target</data>
+
+#2
+n14	0.006601791781388785	
+ <node id="n14">
+      <data key="v_type1">Cell body in EM volume</data>
+      <data key="v_type2">Postsynaptic excitatory target</data>
+
+#3
+n150	0.0062744828183072905
+    <node id="n150">
+      <data key="v_type1">Dendritic fragment</data>
+      <data key="v_type2">Postsynaptic excitatory target</data>
+
+#4
+n82	0.006072515083076463	
+    <node id="n82">
+      <data key="v_type1">Cell body in EM volume</data>
+      <data key="v_type2">Postsynaptic inhibitory target</data>
+
+#5
+n177	0.006025304151976639	
+    <node id="n177">
+      <data key="v_type1">Dendritic fragment</data>
+      <data key="v_type2">Postsynaptic inhibitory target</data>
+
+#6
+n18	0.005821445052845919
+    <node id="n18">
+      <data key="v_type1">Dendritic fragment</data>
+      <data key="v_type2">Postsynaptic inhibitory target</data>
+
+#7
+n102	0.005719086365772366
+    <node id="n102">
+      <data key="v_type1">Cell body in EM volume</data>
+      <data key="v_type2">Postsynaptic inhibitory target</data>
+
+#8
+n4	0.005640756953617417
+    <node id="n4">
+      <data key="v_type1">Characterized pyramidal neuron</data>
+      <data key="v_type2">NA</data>
+
+#9
+n151	0.005581845104598033
+    <node id="n151">
+      <data key="v_type1">Dendritic fragment</data>
+      <data key="v_type2">Postsynaptic excitatory target</data>
+
+#10
+n17	0.005460068854388912
+    <node id="n17">
+      <data key="v_type1">Dendritic fragment</data>
+      <data key="v_type2">Postsynaptic excitatory target</data>

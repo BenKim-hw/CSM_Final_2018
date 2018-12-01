@@ -1,0 +1,49 @@
+#1
+n76	0.006301771517555757	
+<node id="n76">
+      <data key="v_name">LPO</data>
+
+#2
+n167	0.006300489600089257	
+    <node id="n167">
+      <data key="v_name">SNr</data>
+
+#3
+n50	0.006231117219879651
+    <node id="n50">
+      <data key="v_name">FL</data>
+
+#4
+n158	0.006187519954987013	
+    <node id="n158">
+      <data key="v_name">RT</data>
+
+#5
+n6	0.006173199354744111	
+    <node id="n6">
+      <data key="v_name">AId</data>
+
+#6
+n193	0.006020005606164439
+    <node id="n193">
+      <data key="v_name">TT</data>
+
+#7
+n66	0.005999747857810378
+    <node id="n66">
+      <data key="v_name">IPN</data>
+
+#8
+n197	0.005990297074509708	
+    <node id="n197">
+      <data key="v_name">VCO</data>
+
+#9
+n194	0.00596709022864136
+    <node id="n194">
+      <data key="v_name">TU</data>
+
+#10
+n28	0.005945688811229877
+    <node id="n28">
+      <data key="v_name">CENT</data>
